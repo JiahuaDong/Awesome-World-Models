@@ -1,6 +1,6 @@
 # Awesome-World-Models
 
-[![arXiv](https://img.shields.io/badge/arXiv-Slow_Reason_System-b31b1b.svg)](http://arxiv.org/abs/$$$$$$) 
+<a href="https://www.techrxiv.org/users/1024862/articles/1392993-learning-to-model-the-world-a-survey-of-world-models-in-artificial-intelligence"><img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&' alt='arXiv PDF'></a>
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JiahuaDong/Awesome-World-Models)
 [![Last Commit](https://img.shields.io/github/last-commit/JiahuaDong/Awesome-World-Models)](https://github.com/JiahuaDong/Awesome-World-Models)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
