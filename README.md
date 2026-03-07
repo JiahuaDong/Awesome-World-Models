@@ -1,6 +1,6 @@
 # Awesome-World-Models
 
-<a href="https://www.techrxiv.org/users/1024862/articles/1392993-learning-to-model-the-world-a-survey-of-world-models-in-artificial-intelligence"><img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&' alt='arXiv PDF'></a>
+<a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.177274570.09578608/v1"><img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&' alt='arXiv PDF'></a>
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JiahuaDong/Awesome-World-Models)
 [![Last Commit](https://img.shields.io/github/last-commit/JiahuaDong/Awesome-World-Models)](https://github.com/JiahuaDong/Awesome-World-Models)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
@@ -13,7 +13,7 @@
 <!-- omit in toc -->
 ## 👀 Introduction
 
-Welcome to the repository for our survey paper, "Learning to Model the World: A Survey of World Models in Artificial Intelligence". This repository provides resources and updates related to our research. For a detailed introduction, please refer to [our survey paper]($$$$$$).
+Welcome to the repository for our survey paper, "Learning to Model the World: A Survey of World Models in Artificial Intelligence". This repository provides resources and updates related to our research. For a detailed introduction, please refer to [our survey paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177274570.09578608/v1).
 
 World models (WMs) provide a unified approach for modeling how environments evolve over time by learning predictive representations of states and observations. Recent advances in large-scale generative modeling and multimodal foundation models have substantially broadened their applicability across a wide range of interactive and multimodal domains; however, existing research remains fragmented across modeling paradigms, application domains, and evaluation protocols. This survey provides a systematic and in-depth review of WMs in artificial intelligence. Based on the world modeling paradigms of existing methods, we first categorize WMs into four major branches with formal mathematical formulations: reinforcement learning-based, observation-level generative, latent space, and object-centric world models. We further review a broad range of WM applications spanning robotics, autonomous driving, scientific discovery, virtual game simulation, GUI-based agents, as well as interpretability and trustworthiness, and summarize benchmark datasets, evaluation metrics, simulation platforms, and comparative results across WMs. Finally, we discuss key challenges, including long-horizon consistency, controllability, robustness, evaluation limitations, and generalization, and outline promising directions for future research. This survey aims to offer a unified reference for understanding, comparing, and advancing WMs.
 
