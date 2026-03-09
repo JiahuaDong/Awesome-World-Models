@@ -364,8 +364,12 @@ The recent timeline of world models, covering core methods and the release of op
 ## Citation
 If you find this work useful, welcome to cite us.
 ```bib
-
-
+@article{WM_Survey,
+  author={Jiahua Dong and Qi Lyu and Baichen Liu and Xudong Wang and Wenqi Liang and Duzhen Zhang and Jiahang Tu and Hongliu Li and Hanbin Zhao and Henghui Ding and Yulun Zhang and Zhi Han and Nicu Sebe and Fahad Shahbaz Khan and Salman Khan and Mubarak Shah and Philip Torr and Ming-Hsuan Yang and Dacheng Tao},
+  journal={TechRxiv}, 
+  title={Learning to Model the World: A Survey of World Models in Artificial Intelligence}, 
+  year={2026},
+}
 ```
 
 <!-- omit in toc -->
