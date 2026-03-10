@@ -8,7 +8,7 @@
 <!-- omit in toc -->
 ## 📢 Updates
 
-- **2026.01**: 
+- **2026.01**: We release our paper. "Learning to Model the World: A Survey of World Models in Artificial Intelligence"
 
 <!-- omit in toc -->
 ## 👀 Introduction
@@ -57,8 +57,8 @@ The recent timeline of world models, covering core methods and the release of op
     - [Benchmark Datasets \& Evaluation Metrics](#benchmark-datasets--evaluation-metrics)
     - [Physics Engines \& Simulation Platforms](#physics-engines--simulation-platforms)
   - [Part 12: Performance Comparison](#part-12-performance-comparison)
-  - [Citation](#citation)
-
+  - [Citation](#citation
+![image](./assets/WM_functions.png)
 ## Part 1: Reinforcement Learning-Based World Models
 
 * DreamerV3: Mastering diverse control tasks through world models [[Paper]](https://www.nature.com/articles/s41586-025-08744-2.pdf)   ![](https://img.shields.io/badge/Nature-2025-0077c2)
@@ -348,7 +348,7 @@ The recent timeline of world models, covering core methods and the release of op
 * OSWorld: Benchmarking multimodal agents for open-ended tasks in real computer environments. [[Paper]](https://neurips.cc/virtual/2024/poster/97468) ![会议徽章](https://img.shields.io/badge/NeurIPS-2024-blue)
 * Windows agent arena: Evaluating multi-modal OS agents at scale.  [[Paper]](https://icml.cc/virtual/2025/poster/45035) ![会议徽章](https://img.shields.io/badge/ICML-2025-blue)
 ### Physics Engines \& Simulation Platforms
-![image](./assets/sim_list.png)
+![image](./assets/platforms.png)
 * Gazebo: Design and use paradigms for Gazebo, an open-source multi-robot simulator [[Paper]](https://ieeexplore.ieee.org/document/1389727) ![](https://img.shields.io/badge/IROS-2004.09-blue)
 * WebotsTM: Professional Mobile Robot Simulation [[Paper]](https://arxiv.org/abs/cs/0412052) ![](https://img.shields.io/badge/arXiv-2004.12-red)
 * Bullet Physics SDK [[github]](https://github.com/bulletphysics/bullet3) ![](https://img.shields.io/badge/github-2015-red) [[Blog]](https://pybullet.org/wordpress/) ![](https://img.shields.io/badge/blog-2021.04-red)
@@ -360,7 +360,7 @@ The recent timeline of world models, covering core methods and the release of op
 * Omniverse [[Notion]](https://docs.omniverse.nvidia.com/dev-overview/latest/index.html) ![](https://img.shields.io/badge/Notion-Docs-red) [[SDK]](https://docs.omniverse.nvidia.com/materials-and-rendering/latest/rtx-renderer_pt.html) ![](https://img.shields.io/badge/SDK-Docs-red)
 * Genesis: A Generative and Universal Physics Engine for Robotics and Beyond [[github]](https://genesis-embodied-ai.github.io/) ![](https://img.shields.io/badge/github-2024-red) [[SDK]](https://genesis-world.readthedocs.io/en/latest/) ![](https://img.shields.io/badge/SDK-2024-red)
 ## Part 12: Performance Comparison
-![image](./assets/world_score.png)
+![image](./assets/wm_score.png)
 ## Citation
 If you find this work useful, welcome to cite us.
 ```bib
