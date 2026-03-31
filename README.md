@@ -111,6 +111,7 @@ The recent timeline of world models, covering core methods and the release of op
 * IRASim: A Fine-Grained World Model for Robot Manipulation [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/2655) ![](https://img.shields.io/badge/ICCV-2025-0077c2)
 * WISA: World simulator assistant for physics-aware text-to-video generation [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/119925) ![](https://img.shields.io/badge/NeurIPS-2025-0077c2)
 * CoLA-World: Co-Evolving Latent Action World Models [[Paper]](https://arxiv.org/pdf/2510.26433) ![](https://img.shields.io/badge/arXiv-2025.10-B31B1B) 
+* Hand2World: Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures [[Paper]](https://arxiv.org/abs/2602.09600) [[Project]](https://hand2world.github.io/) ![](https://img.shields.io/badge/arXiv-2026.02-B31B1B)
 ### 3D and 4D Observations
 * 4D-fy: Text-to-4d generation using hybrid score distillation sampling [[Paper]](https://cvpr.thecvf.com/virtual/2024/poster/29662) ![](https://img.shields.io/badge/CVPR-2024-0077c2)
 * WonderJourney: Going from anywhere to everywhere [[Paper]](https://cvpr.thecvf.com/virtual/2024/poster/31689) ![](https://img.shields.io/badge/CVPR-2023-0077c2)
