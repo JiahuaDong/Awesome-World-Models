@@ -145,6 +145,7 @@ The recent timeline of world models, covering core methods and the release of op
 * Object-Centric Latent Action Learning [[Paper]](https://iclr.cc/virtual/2025/37546) ![](https://img.shields.io/badge/ICLRW-2025-blue)
 * Object-Centric Representations Generalize Better Compositionally with Less Compute [[Paper]](https://iclr.cc/virtual/2025/37565) ![](https://img.shields.io/badge/ICLRW-2025-blue)
 * CarFormer: Self-driving with Learned Object-Centric Representations [[Paper]](https://eccv.ecva.net/virtual/2024/poster/2110) ![](https://img.shields.io/badge/ECCV-2024-blue)
+* FOCUS: object-centric world models for robotic manipulation [[Paper]](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2025.1585386/full) ![](https://img.shields.io/badge/Frontiers in Neurorobotics-red)
 
 ## Part 5: World Models for Robotics
 
