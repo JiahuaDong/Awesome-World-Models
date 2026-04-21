@@ -339,6 +339,7 @@ The recent timeline of world models, covering core methods and the release of op
 * Open x-embodiment: Robotic Learning Datasets and RT-X Models : Open X-Embodiment Collaboration0. [[Paper]](https://ieeexplore.ieee.org/document/10611477) ![会议徽章](https://img.shields.io/badge/ICRA-2024-blue)
 * Room-Across-Room: Multilingual vision-and-language navigation with dense spatiotemporal grounding. [[Paper]](https://aclanthology.org/2020.emnlp-main.356/) ![会议徽章](https://img.shields.io/badge/EMNLP-2020-blue)
 * Ewmbench: Evaluating scene, motion, and semantic quality in embodied world models. [[Paper]](https://arxiv.org/abs/2505.09694) ![会议徽章](https://img.shields.io/badge/arXiv-2025.05-red)
+* LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion Models via Likelihood Preference [[Paper]](https://arxiv.org/abs/2510.11512) ![会议徽章](https://img.shields.io/badge/ICLR-2026-blue)
 * Meta-world: A benchmark and evaluation for multi-task and meta reinforcement learning. [[Paper]](https://arxiv.org/abs/1910.10897) ![会议徽章](https://img.shields.io/badge/arXiv-2019.10-red)
 * nuscenes: A multimodal dataset for autonomous driving. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.html) ![会议徽章](https://img.shields.io/badge/CVPR-2020-blue)
 * ACT-Bench: Towards Action Controllable World Models for Autonomous Driving. [[Paper]](https://arxiv.org/abs/2412.05337) ![会议徽章](https://img.shields.io/badge/arXiv-2024.12-red)
