@@ -8,6 +8,7 @@
 <!-- omit in toc -->
 ## 📢 Updates
 
+- **2026.05**: Add recent world model papers
 - **2026.01**: We release our paper. "Learning to Model the World: A Survey of World Models in Artificial Intelligence"
 
 <!-- omit in toc -->
@@ -25,6 +26,7 @@ The recent timeline of world models, covering core methods and the release of op
 ## 📒 Table of Contents
 
 - [Awesome-World-Models](#awesome-world-models)
+  - [Part 0: Survey Papers](#part-0-survey-papers)
   - [Part 1: Reinforcement Learning-Based World Models](#part-1-reinforcement-learning-based-world-models)
   - [Part 2: Observation-Level Generative World Models](#part-2-observation-level-generative-world-models)
     - [Language Observations](#language-observations)
@@ -57,10 +59,41 @@ The recent timeline of world models, covering core methods and the release of op
     - [Benchmark Datasets \& Evaluation Metrics](#benchmark-datasets--evaluation-metrics)
     - [Physics Engines \& Simulation Platforms](#physics-engines--simulation-platforms)
   - [Part 12: Performance Comparison](#part-12-performance-comparison)
-  - [Citation](#citation
-![image](./assets/WM_functions.png)
+  - [Citation](#citation)
+## Part 0: Survey Papers
+
+* From Specialist to Generalist: A Comprehensive Survey on World Models [[Paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176800434.49068726/v1) ![](https://img.shields.io/badge/TechRxiv-2026-0077c2)
+* Understanding World or Predicting Future? A Comprehensive Survey of World Models [[Paper]](https://fi.ee.tsinghua.edu.cn/~dingjingtao/papers/WorldModel.pdf) ![](https://img.shields.io/badge/ACM_CS-2025-0077c2)
+* World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child [[Paper]](https://arxiv.org/abs/2503.15168) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond [[Paper]](https://arxiv.org/abs/2405.03520) ![](https://img.shields.io/badge/arXiv-2024.05-red)
+* A Survey of World Models for Autonomous Driving [[Paper]](https://arxiv.org/abs/2501.11260) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* 3D and 4D World Modeling: A Survey [[Paper]](https://worldbench.github.io/assets_common/papers/survey.pdf) ![](https://img.shields.io/badge/arXiv-2025-red)
+* A Comprehensive Survey on World Models for Embodied AI [[Paper]](https://arxiv.org/abs/2510.16732) ![](https://img.shields.io/badge/arXiv-2025.10-red)
+
 ## Part 1: Reinforcement Learning-Based World Models
 
+* WIMLE: Uncertainty-Aware World Models with IMLE for Sample-Efficient Continuous Control [[Paper]](https://openreview.net/forum?id=mzLOnTb3WH) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* HAUWM: Learning to Be Uncertain: Pre-training World Models with Horizon-Calibrated Uncertainty [[Paper]](https://openreview.net/forum?id=pZuZWRuPyi) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* Newt: Learning Massively Multitask World Models for Continuous Control [[Paper]](https://arxiv.org/abs/2511.19584) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* R2-Dreamer: Redundancy-Reduced World Models without Decoders or Augmentation [[Paper]](https://openreview.net/forum?id=Je2QqXrcQq) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* MoW: Mixture-of-World Models: Scaling Multi-Task Reinforcement Learning with Modular Latent Dynamics [[Paper]](https://openreview.net/forum?id=qUQARlAx5y) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* ScaleZero: One Model for All Tasks: Leveraging Efficient World Models in Multi-Task Planning [[Paper]](https://arxiv.org/abs/2509.07945) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* EAWM: From Observations to Events: Event-Aware World Models for Reinforcement Learning [[Paper]](https://openreview.net/forum?id=OWkkFaq1IZ) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* Horizon Imagination: Efficient On-Policy Rollout in Diffusion World Models [[Paper]](https://openreview.net/forum?id=Obefq4k8iG) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* Sparse Imagination for Efficient Visual World Model Planning [[Paper]](https://openreview.net/forum?id=faxcxKINBC) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* Compositional Planning with Jumpy World Models [[Paper]](https://icml.cc/virtual/2026/poster/62821) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination [[Paper]](https://icml.cc/virtual/2026/poster/63244) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling [[Paper]](https://icml.cc/virtual/2026/poster/64209) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Learning Reward-Cost Balance in Safe RL via Score-Based World Models [[Paper]](https://icml.cc/virtual/2026/poster/61706) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Parallel Stochastic Gradient-Based Planning for World Models [[Paper]](https://icml.cc/virtual/2026/poster/64851) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning [[Paper]](https://icml.cc/virtual/2026/poster/62695) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* SOLAR for Offline MARL: Plateau-Triggered Potential Shaping under World-Model Uncertainty [[Paper]](https://icml.cc/virtual/2026/poster/63046) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* WorldCompass: Reinforcement Learning for Long-Horizon World Models [[Paper]](https://icml.cc/virtual/2026/poster/60526) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Deep SPI: Safe Policy Improvement via World Models [[Paper]](https://openreview.net/forum?id=24C3bSaH3F) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* Context and Diversity Matter: The Emergence of In-Context Learning in World Models [[Paper]](https://openreview.net/forum?id=0GNBqoYcAP) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* World Models as Reference Trajectories for Rapid Motor Adaptation [[Paper]](https://arxiv.org/abs/2510.10587) ![](https://img.shields.io/badge/NeurIPS-2025-0077c2)
+* Adversarial Diffusion for Robust Reinforcement Learning [[Paper]](https://neurips.cc/virtual/2025/115382) ![](https://img.shields.io/badge/NeurIPS-2025-0077c2)
+* World Modeling with Probabilistic Structure Integration [[Paper]](https://arxiv.org/abs/2507.01278) ![](https://img.shields.io/badge/arXiv-2025.07-red)
 * DreamerV3: Mastering diverse control tasks through world models [[Paper]](https://www.nature.com/articles/s41586-025-08744-2.pdf)   ![](https://img.shields.io/badge/Nature-2025-0077c2)
 *  Dreamer: Dream to control: Learning behaviors by latent imagination [[Paper]](https://iclr.cc/virtual_2020/poster_S1lOTC4tDS.html) ![](https://img.shields.io/badge/ICLR-2020-0077c2)
 * DreamSmooth: Improving model-based reinforcement learning via reward smoothing [[Paper]](https://iclr.cc/virtual/2024/poster/19014) ![](https://img.shields.io/badge/ICLR-2024-0077c2)
@@ -90,6 +123,7 @@ The recent timeline of world models, covering core methods and the release of op
 
 ### Language Observations
 *ByteSized32-State-Prediction: Can language models serve as text-based world simulators? $$$[[Paper]](https://aclanthology.org/2024.acl-short.1/) ![](https://img.shields.io/badge/ACL-2024-0077c2)
+* WorldLLM: Improving LLMs' World Modeling Using Curiosity-Driven Theory-Making [[Paper]](https://arxiv.org/abs/2506.12350) ![](https://img.shields.io/badge/arXiv-2025.06-red)
 * GPT-4: Gpt-4 technical report [[Paper]](https://arxiv.org/pdf/2303.08774) ![](https://img.shields.io/badge/arXiv-2023.03-B31B1B)
 * Llama 3: The llama 3 herd of models [[Paper]](https://arxiv.org/pdf/2407.21783) ![](https://img.shields.io/badge/arXiv-2024.07-B31B1B)
 * LLMCWM: Language agents meet causality – bridging LLMs and causal world models [[Paper]](https://proceedings.iclr.cc/paper_files/paper/2025/hash/5c5bc3553815adb4d1a8a5b8701e41a9-Abstract-Conference.html) ![](https://img.shields.io/badge/ICLR-2025-0077c2)
@@ -97,7 +131,20 @@ The recent timeline of world models, covering core methods and the release of op
 * RAP: Reasoning with language model is planning with world model [[Paper]](https://aclanthology.org/2023.emnlp-main.507/) ![](https://img.shields.io/badge/EMNLP-2023-0077c2)
 * Making large language models into world models with precondition and effect knowledge [[Paper]](https://aclanthology.org/2025.coling-main.503.pdf) ![](https://img.shields.io/badge/COLING-2025-0077c2)
 * LWM: World model on million-length video and language with blockwise ringattention [[Paper]](https://iclr.cc/virtual/2025/poster/30229) ![](https://img.shields.io/badge/ICRL-2025-0077c2)
+* Speech World Model: Causal State-Action Planning with Explicit Reasoning for Speech [[Paper]](https://openreview.net/forum?id=YGUKPGO182) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
 ### Visual Observations
+* Astra: General Interactive World Model with Autoregressive Denoising [[Paper]](https://openreview.net/forum?id=8UZpmrxoLG) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* Composition of Memory Experts for Diffusion World Models [[Paper]](https://openreview.net/forum?id=sUEdpZCHdp) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention [[Paper]](https://icml.cc/Downloads/2026) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation [[Paper]](https://icml.cc/virtual/2026/poster/63323) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Olaf-World: Orienting Latent Actions for Video World Modeling [[Paper]](https://icml.cc/virtual/2026/poster/63978) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* World-R1: Reinforcement Learning for High-Quality World Generation with High-Dimensional Guidance [[Paper]](https://icml.cc/virtual/2026/poster/62109) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* World Guidance: World Modeling in Condition Space for Action Generation [[Paper]](https://icml.cc/virtual/2026/poster/65703) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* StableWorld: Towards Stable and Consistent Long Interactive Video Generation [[Paper]](https://arxiv.org/abs/2601.15281) ![](https://img.shields.io/badge/arXiv-2026.01-red)
+* Learning World Models for Interactive Video Generation [[Paper]](https://arxiv.org/abs/2505.21996) ![](https://img.shields.io/badge/arXiv-2025.05-red)
+* How Far is Video Generation from World Model: A Physical Law Perspective [[Paper]](https://arxiv.org/abs/2501.09038) ![](https://img.shields.io/badge/ICML-2025-0077c2)
+* Martian World Model: Controllable Video Synthesis with Physically Accurate 3D Reconstructions [[Paper]](https://arxiv.org/abs/2507.07960) ![](https://img.shields.io/badge/NeurIPS-2025-0077c2)
+* Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d03d6c8c618dfc246c913f3d3edf0c5-Abstract-Conference.html) ![](https://img.shields.io/badge/NeurIPS-2024-0077c2)
 * Sora: Video generation models as world simulators [[Paper]](https://openai.com/index/video-generation-models-as-world-simulators/) ![](https://img.shields.io/badge/OpenAI-2024-0077c2)
 * TeleWorld: Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation [[Paper]](https://arxiv.org/abs/2508.03334) ![](https://img.shields.io/badge/arXiv-2025.08-red)
 * Gen-3 [[Blog]](https://runwayml.com/research/introducing-gen-3-alpha) ![](https://img.shields.io/badge/blog-2024.06-red)
@@ -106,12 +153,25 @@ The recent timeline of world models, covering core methods and the release of op
 * SPMEM: Video world models with long-term spatial memory [[Paper]](https://neurips.cc/virtual/2025/poster/118886) ![](https://img.shields.io/badge/NeurIPS-2025-0077c2)
 * Wan: Open and Advanced Large-Scale Video Generative Models [[Paper]](https://arxiv.org/pdf/2503.20314) ![](https://img.shields.io/badge/arXiv-2025.03-B31B1B)
 * LLaVA: Visual instruction tuning [[Paper]](https://papers.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html) ![](https://img.shields.io/badge/NeurIPS-2023-0077c2)
-* Vid2world: Crafting video diffusion models to interactive world models [[Paper]](https://arxiv.org/pdf/2505.14357) ![](https://img.shields.io/badge/arXiv-2025.05-B31B1B)
+* Vid2world: Crafting video diffusion models to interactive world models [[Paper]](https://arxiv.org/pdf/2505.14357) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
 * VideoCrafter2: Overcoming data limitations for high-quality video diffusion models [[Paper]](https://cvpr.thecvf.com/virtual/2024/poster/29306) ![](https://img.shields.io/badge/CVPR-2024-0077c2)
+* DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors [[Paper]](https://openaccess.thecvf.com/content_ECCV_2024/html/Xing_Dynamicrafter_Animating_Open-domain_Images_with_Video_Diffusion_Priors_ECCV_2024_paper.html) ![](https://img.shields.io/badge/ECCV-2024-0077c2)
 * IRASim: A Fine-Grained World Model for Robot Manipulation [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/2655) ![](https://img.shields.io/badge/ICCV-2025-0077c2)
 * WISA: World simulator assistant for physics-aware text-to-video generation [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/119925) ![](https://img.shields.io/badge/NeurIPS-2025-0077c2)
-* CoLA-World: Co-Evolving Latent Action World Models [[Paper]](https://arxiv.org/pdf/2510.26433) ![](https://img.shields.io/badge/arXiv-2025.10-B31B1B) 
+* CoLA-World: Co-Evolving Latent Action World Models [[Paper]](https://icml.cc/virtual/2026/poster/64013) ![](https://img.shields.io/badge/ICML-2026-0077c2) 
 ### 3D and 4D Observations
+* WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving [[Paper]](https://openreview.net/pdf/121ca339c9e3005a74d06c33ee36cef5432bf0de.pdf) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling [[Paper]](https://openreview.net/forum?id=ULXYZCms41) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* Unified 3D Scene Understanding Through Physical World Modeling [[Paper]](https://openreview.net/forum?id=NQq9JLMfNN) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* WorldTree: Towards 4D Dynamic Worlds from Monocular Video using Tree-Chains [[Paper]](https://openreview.net/forum?id=mVo6cyFR6C) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* Future Dynamic 3D Scene Simulation with Visual World Models [[Paper]](https://icml.cc/virtual/2026/poster/62040) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* MVISTA-4D: Dynamic Sparse-view Synthesis via 4D Gaussian Splatting Assistant [[Paper]](https://icml.cc/virtual/2026/poster/61060) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Towards Practical World Model for 4D Occupancy Forecasting in Autonomous Driving [[Paper]](https://icml.cc/virtual/2026/poster/61687) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* WorldMirror: Model-Free 3D Object Generation from A Single Image [[Paper]](https://icml.cc/virtual/2026/poster/61647) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* PERSIST: Beyond Pixel Histories: World Models with Persistent 3D State [[Paper]](https://arxiv.org/abs/2603.03482) ![](https://img.shields.io/badge/arXiv-2026.03-red)
+* PointWorld: Scaling 3D World Models for In-the-wild Robotic Manipulation [[Paper]](https://arxiv.org/abs/2601.07404) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* MagicWorld: Interactive Geometry-driven Video World Exploration [[Paper]](https://arxiv.org/abs/2511.18886) ![](https://img.shields.io/badge/arXiv-2025.11-red)
+* LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation [[Paper]](https://arxiv.org/abs/2509.05263) ![](https://img.shields.io/badge/arXiv-2025.09-red)
 * 4D-fy: Text-to-4d generation using hybrid score distillation sampling [[Paper]](https://cvpr.thecvf.com/virtual/2024/poster/29662) ![](https://img.shields.io/badge/CVPR-2024-0077c2)
 * WonderJourney: Going from anywhere to everywhere [[Paper]](https://cvpr.thecvf.com/virtual/2024/poster/31689) ![](https://img.shields.io/badge/CVPR-2023-0077c2)
 * SceneScape: Text-driven consistent scene generation [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7d62a85ebfed2f680eb5544beae93191-Abstract-Conference.html) ![](https://img.shields.io/badge/NeurIPS-2023-0077c2)
@@ -122,6 +182,8 @@ The recent timeline of world models, covering core methods and the release of op
 
 ## Part 3: Latent Space World Models
 * I-JEPA: Self-supervised learning from images with a joint-embedding predictive architecture [[Paper]](https://cvpr.thecvf.com/virtual/2023/poster/21019) ![](https://img.shields.io/badge/CVPR-2023-blue)
+* Causal-JEPA: Contrastive Video Representation Learning for Predictable World Model [[Paper]](https://icml.cc/virtual/2026/poster/63746) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* VJEPA: Variational Joint-Embedding Predictive Architecture for Self-Supervised Learning [[Paper]](https://icml.cc/virtual/2026/poster/60817) ![](https://img.shields.io/badge/ICML-2026-0077c2)
 * V-JEPA: Revisiting Feature Prediction for Learning Visual Representations from Video [[Paper]](https://openreview.net/forum?id=L2pdpUFUaX) ![](https://img.shields.io/badge/TMLR-2024-blue)
 * V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning [[Paper]](https://neurips.cc/virtual/2024/104556) ![](https://img.shields.io/badge/arXiv-2025-red)
 * seq-JEPA: Autoregressive Predictive Learning of Invariant-Equivariant World Models [[Paper]](https://neurips.cc/virtual/2024/104556) ![](https://img.shields.io/badge/NeurIPS-2025-red)
@@ -135,6 +197,7 @@ The recent timeline of world models, covering core methods and the release of op
 * Object-centric Learning with Slot Attention [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/8511df98c02ab60aea1b2356c013bc0f-Abstract.html) ![](https://img.shields.io/badge/NeurIPS-2020-blue)
 * SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models [[Paper]](https://iclr.cc/virtual/2023/poster/11779) ![](https://img.shields.io/badge/ICLR-2023-blue)
 * FIOC-WM: Learning Interactive World Model for Object-Centric Reinforcement Learning [[Paper]](https://arxiv.org/abs/2511.02225) ![](https://img.shields.io/badge/arXiv-2025-red)
+* LPWM: Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling [[Paper]](https://openreview.net/forum?id=lTaPtGiUUc) ![](https://img.shields.io/badge/ICLR-2026_Oral-0077c2)
 * G-SWM: Improving Generative Imagination in Object-Centric World Models [[Paper]](https://icml.cc/virtual/2020/poster/6582) ![](https://img.shields.io/badge/ICML-2020-blue)
 * When Object-Centric World Models Meet Policy Learning: From Pixels to Policies, and Where It Breaks [[Paper]](https://arxiv.org/abs/2511.06136) ![](https://img.shields.io/badge/arXiv-2025-red)
 * Objects matter: object-centric world models improve reinforcement learning in visually complex environments [[Paper]](https://arxiv.org/abs/2501.16443) ![](https://img.shields.io/badge/arXiv-2025-red)
@@ -151,9 +214,16 @@ The recent timeline of world models, covering core methods and the release of op
 
 ### Manipulation
 #### Visual Futrue Prediction
+* Structured 4D Latent World Model for Robot Planning [[Paper]](https://openreview.net/forum?id=iB9qx28gv4) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Visuo-Tactile World Models [[Paper]](https://openreview.net/forum?id=zKQSyT7a7n) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* DDP-WM: Disentangled Dynamics Prediction for Efficient World Models [[Paper]](https://arxiv.org/abs/2602.01780) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation [[Paper]](https://arxiv.org/abs/2605.17522) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* DreamDojo: A Unified World Model for Learning Robot Policies Through Long-Horizon Imagination [[Paper]](https://icml.cc/virtual/2026/poster/62854) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Flow Equivariant World Models: Training Flow Matching Models with Reinforcement Learning for Robotic Assembly [[Paper]](https://icml.cc/virtual/2026/poster/63460) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* WorldCache: Towards Video World Models for Long-term Dense Scene Correspondence [[Paper]](https://icml.cc/virtual/2026/poster/62182) ![](https://img.shields.io/badge/ICML-2026-0077c2)
 * RoboDreamer: Learning Compositional World Models for Robot Imagination [[Paper]](https://proceedings.mlr.press/v235/zhou24f.html) ![](https://img.shields.io/badge/ICML-2024-blue)
 * Grounding Video Models to Actions through Goal Conditioned Exploration [[Paper]](https://arxiv.org/abs/2411.07223) ![](https://img.shields.io/badge/ICLR-2025-blue)
-* ViPRA: Video Prediction for Robot Actions [[Paper]](https://arxiv.org/abs/2511.07732) ![](https://img.shields.io/badge/arXiv-2025.11-red)
+* ViPRA: Video Prediction for Robot Actions [[Paper]](https://openreview.net/forum?id=w3Ik8HUyTT) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
 * FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation [[Paper]](https://arxiv.org/abs/2505.10075) ![](https://img.shields.io/badge/arXiv-2025.05-red)
 * TesserAct: Learning 4D Embodied World Models [[Paper]](https://arxiv.org/abs/2504.20995) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 * ORV: 4D Occupancy-centric Robot Video Generation [[Paper]](https://arxiv.org/abs/2506.03079) ![](https://img.shields.io/badge/arXiv-2025.06-red)
@@ -164,7 +234,9 @@ The recent timeline of world models, covering core methods and the release of op
 * KeyWorld: Key Frame Reasoning Enables Effective and Efficient World Models [[Paper]](https://arxiv.org/abs/2509.21027) ![](https://img.shields.io/badge/arXiv-2025.09-red)
 
 #### Latent Action State Imagination
-* Learning Latent Dynamics for Planning from Pixels [[Paper]](https://arxiv.org/abs/1811.04551) ![](https://img.shields.io/badge/ICML-2019-blue)
+* LAC-WM: Latent Action Robot Foundation World Models for Cross-Embodiment Adaptation [[Paper]](https://openreview.net/forum?id=vEZgPr1deb) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Factored Latent Action World Models for Efficient Robot Learning [[Paper]](https://icml.cc/virtual/2026/poster/65081) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Learning Latent Action World Models for Generalizable Manipulation Environments [[Paper]](https://icml.cc/virtual/2026/poster/65498) ![](https://img.shields.io/badge/ICML-2026-0077c2)
 * FLARE: Robot Learning with Implicit World Modeling [[Paper]](https://arxiv.org/abs/2505.15659) ![](https://img.shields.io/badge/arXiv-2025.05-red)
 * AdaWorld: Learning Adaptable World Models with Latent Actions [[Paper]](https://arxiv.org/abs/2503.18938) ![](https://img.shields.io/badge/ICML-2025-blue)
 * DyWA: Dynamic World Adaptation for Generalizable World Models [[Paper]](https://arxiv.org/abs/2503.16806) ![](https://img.shields.io/badge/arXiv-2025.03-red)
@@ -179,7 +251,6 @@ The recent timeline of world models, covering core methods and the release of op
 #### Control-Oriented Planning
 * Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models (PETS) [[Paper]](https://arxiv.org/abs/1805.12114) ![](https://img.shields.io/badge/NeurIPS-2018-blue)
 * TD-MPC: Temporal Difference Learning for Model Predictive Control [[Paper]](https://arxiv.org/abs/2203.04955) ![](https://img.shields.io/badge/ICML-2022-blue)
-* TD-MPC2: Scalable, Robust World Models for Continuous Control [[Paper]](https://arxiv.org/abs/2310.16828) ![](https://img.shields.io/badge/ICLR-2024-blue)
 * Time-Aware World Model for Adaptive Prediction and Control (TAWM) [[Paper]](https://arxiv.org/abs/2506.08441) ![](https://img.shields.io/badge/ICML-2025-blue)
 * Planning with Diffusion for Flexible Behavior Synthesis [[Paper]](https://arxiv.org/abs/2205.09991) ![](https://img.shields.io/badge/ICML-2022-blue)
 * Decision Diffuser: Is Conditional Generative Modeling All You Need for Decision-Making? [[Paper]](https://arxiv.org/abs/2211.15657) ![](https://img.shields.io/badge/ICLR-2023-blue)
@@ -187,6 +258,7 @@ The recent timeline of world models, covering core methods and the release of op
 * HiP: Compositional Foundation Models for Hierarchical Planning [[Paper]](https://arxiv.org/abs/2309.08587) ![](https://img.shields.io/badge/NeurIPS-2023-blue)
 * PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2410.10394) ![](https://img.shields.io/badge/NeurIPS-2024-blue)
 * Hdflow: Hierarchical diffusion-flow planning for long-horizon robotic assembl [[Paper]](https://openreview.net/forum?id=nokbt6AbcM) ![](https://img.shields.io/badge/NeurIPS__WS-2025-blue)
+* ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning [[Paper]](https://openreview.net/forum?id=a1zfcaNTkM) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
 * ManipDreamer: Learning Manipulation World Models with Action-Tree Supervisions [[Paper]](https://arxiv.org/abs/2504.16464) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 * RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation [[Paper]](https://arxiv.org/abs/2501.06605) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * Mobile Manipulation with Active Inference [[Paper]](https://arxiv.org/abs/2507.17338) ![](https://img.shields.io/badge/arXiv-2025.07-red)
@@ -204,10 +276,13 @@ The recent timeline of world models, covering core methods and the release of op
 * Kinodynamic: Kinodynamic Motion Planning for Mobile Robot Navigation across Inconsistent World Models [[Paper]](https://arxiv.org/abs/2509.26339) ![会议徽章](https://img.shields.io/badge/RSS%20Workshop25-blue)
 * Neuro-Symbolic: Perspective-Shifted Neuro-Symbolic World Models for Socially-Aware Robot Navigation [[Paper]](https://arxiv.org/abs/2503.20425) ![会议徽章](https://img.shields.io/badge/arXiv-2025.03-red)
 * Abs-Sim2Rea: Abstract Sim2Real through Approximate Information States [[Paper]](https://openreview.net/pdf?id=FoDmB0ixdt) ![会议徽章](https://img.shields.io/badge/NeurIPS%20Workshop-2023-blue)
+* ESWM: Building Spatial World Models from Sparse Transitional Episodic Memories [[Paper]](https://openreview.net/forum?id=w3w7WVG4ks) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* TMoW: Test-Time Mixture of World Models for Embodied Agents in Dynamic Environments [[Paper]](https://openreview.net/forum?id=LQD1MrnbxH) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
 * Unified WM: Unified world models: Memory-augmented planning and foresight for visual navigation [[Paper]](https://arxiv.org/pdf/2510.08713v1) ![会议徽章](https://img.shields.io/badge/arXiv-2025.10-red)
 * Scene Graph World: Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation [[Paper]](https://arxiv.org/abs/2508.06990) ![会议徽章](https://img.shields.io/badge/arXiv-2025.08-red)
 * Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension [[Paper]](https://arxiv.org/abs/2412.03704) ![会议徽章](https://img.shields.io/badge/arXiv-2024.12-red)
 * X-Mobility: End-To-End Generalizable Navigation via World Modeling [[Paper]](https://arxiv.org/pdf/2410.17491v3) ![会议徽章](https://img.shields.io/badge/arXiv-2024.10-red)
+* SC2-WM: A Self-Correcting World Model with Closed-Loop Feedback for Vision-and-Language Navigation in Continuous Environments [[Paper]](https://icml.cc/Downloads/2026) ![](https://img.shields.io/badge/ICML-2026-0077c2)
 * WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation [[Paper]](https://arxiv.org/abs/2503.02247) ![会议徽章](https://img.shields.io/badge/IROS-2025-blue)
 * RECON: Rapid Exploration for Open-World Navigation with Latent Goal Models [[Paper]](https://arxiv.org/abs/2104.05859) ![会议徽章](https://img.shields.io/badge/arXiv-2021.04-red)
 * NaVi-WM: Deductive Chain-of-Thought Augmented Socially-aware Robot Navigation World Model [[Paper]](https://arxiv.org/abs/2510.23509) ![会议徽章](https://img.shields.io/badge/arXiv-2025.10-red)
@@ -218,7 +293,7 @@ The recent timeline of world models, covering core methods and the release of op
 * After Persistent Embodied WM: Learning 3D Persistent Embodied World Models [[Paper]](https://arxiv.org/abs/2505.05495) ![会议徽章](https://img.shields.io/badge/arXiv-2025.05-red)
 
 ### Policy Learning
-* WMPO: World Model-based Policy Optimization for Vision-Language-Action Models [[Paper]](https://arxiv.org/abs/2511.09515) ![](https://img.shields.io/badge/arXiv-2025.11-red)
+* WMPO: World Model-based Policy Optimization for Vision-Language-Action Models [[Paper]](https://openreview.net/forum?id=qE2FyvRvuF) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
 * World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2509.19080) ![](https://img.shields.io/badge/arXiv-2025.09-red)
 * DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions [[Paper]](https://arxiv.org/abs/2509.19538) ![](https://img.shields.io/badge/arXiv-2025.09-red)
 * Latent Action World Models for Control with Unlabeled Trajectories [[Paper]](https://arxiv.org/abs/2512.10016) ![](https://img.shields.io/badge/arXiv-2025.12-red)
@@ -226,9 +301,9 @@ The recent timeline of world models, covering core methods and the release of op
 * World models can leverage human videos for dexterous manipulation [[Paper]](https://arxiv.org/abs/2512.13644) ![](https://img.shields.io/badge/arXiv-2025.12-red)
 * TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos [[Paper]](https://arxiv.org/abs/2511.21690) ![](https://img.shields.io/badge/arXiv-2025.11-red)
 * 3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model [[Paper]](https://arxiv.org/abs/2506.06199) ![](https://img.shields.io/badge/arXiv-2025.06-red)
-* Ctrl-World: A Controllable Generative World Model for Robot Manipulation [[Paper]](https://arxiv.org/abs/2510.10125) ![](https://img.shields.io/badge/arXiv-2025.10-red)
+* Ctrl-World: A Controllable Generative World Model for Robot Manipulation [[Paper]](https://openreview.net/forum?id=748bHL2BAv) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
 * Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [[Paper]](https://arxiv.org/abs/2501.10100) ![](https://img.shields.io/badge/arXiv-2025.01-red)
-* WorldGym: World Model as An Environment for Policy Evaluation [[Paper]](https://arxiv.org/abs/2506.00613) ![](https://img.shields.io/badge/arXiv-2025.06-red)
+* WorldGym: World Model as An Environment for Policy Evaluation [[Paper]](https://openreview.net/pdf?id=hidBHy1CAw) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
 * Worldeval: World model as realworld robot policies evaluator [[Paper]](https://arxiv.org/abs/2505.19017) ![](https://img.shields.io/badge/arXiv-2025.05-red)
 ### Locomotion
 * WMP: World Model-based Perception for Visual Legged Locomotion [[Paper]](https://wmp-loco.github.io/) ![会议徽章](https://img.shields.io/badge/ICRA-2025-blue)  
@@ -239,6 +314,12 @@ The recent timeline of world models, covering core methods and the release of op
 ## Part 6: World Models for Autonomous Driving
 
 ### Predictive Modeling
+* DeepSight: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving [[Paper]](https://arxiv.org/abs/2605.10564) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* CoIRL-AD: Cooperative Inverse Reinforcement Learning for Autonomous Driving with World Models [[Paper]](https://icml.cc/virtual/2026/poster/62420) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* DriveWorld-VLA: Efficient On-Demand 4D World Models for Robotaxi Autopilot [[Paper]](https://icml.cc/virtual/2026/poster/60711) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks [[Paper]](https://openreview.net/forum?id=z3cFADf6zZ) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* ConsisDrive: Identity-Preserving Driving World Models for Video Generation by Instance Mask [[Paper]](https://openreview.net/forum?id=zgqFQM8VNe) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving [[Paper]](https://openreview.net/forum?id=ptGmMFGWmk) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
 * UniWorld: Autonomous Driving Pre-training via World Models [[Paper]](https://arxiv.org/abs/2308.07234) ![](https://img.shields.io/badge/arXiv-2023.8-red)
 * HoloDrive: Holistic 2D-3D Multi-Modal Street Scene Generation for Autonomous Driving [[Paper]](https://arxiv.org/abs/2412.01407) ![](https://img.shields.io/badge/arXiv-2024.12-red)
 * WoVoGen: World Volume-Aware Diffusion for Controllable Multi-camera Driving Scene Generation [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-72989-8_19/) ![](https://img.shields.io/badge/ECCV-2024-blue)
@@ -264,11 +345,12 @@ The recent timeline of world models, covering core methods and the release of op
 * Think2Drive: Efficient Reinforcement Learning by Thinking with Latent World Model for Autonomous Driving (in CARLA-V2) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-72995-9_9) ![](https://img.shields.io/badge/ECCV-2024-blue)
 * Doe-1: Closed-Loop Autonomous Driving with Large World Model [[Paper]](https://arxiv.org/abs/2412.09627) ![](https://img.shields.io/badge/arXiv-2024.12-red)
 * AdaWM: Adaptive World Model based Planning for Autonomous Driving [[Paper]](https://openreview.net/forum?id=NEu8wgPctU) ![](https://img.shields.io/badge/ICLR-2025-blue)
-* DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving [[Paper]](https://arxiv.org/abs/2510.12796) ![](https://img.shields.io/badge/arXiv-2025.10-red)
+* DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving [[Paper]](https://openreview.net/forum?id=plrGn3RdzN) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
 
 ## Part 7: World Models for Science
 
 ### Social Science and Socioeconomic Systems
+* Building Social World Models with Genetic Programming [[Paper]](https://icml.cc/virtual/2026/poster/60763) ![](https://img.shields.io/badge/ICML-2026-0077c2)
 * SWM: Social World Models [[Paper]](https://arxiv.org/abs/2509.00559) ![](https://img.shields.io/badge/arXiv-2025.09-red)
 * SWM-AP: Social World Model-Augmented Mechanism Design Policy Learning [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/115517) ![](https://img.shields.io/badge/NeurIPS-2025-blue)
 * SocioVerse: A World Model for Social Simulation Powered by LLM Agents and a Pool of 10 Million Real-World Users [[Paper]](https://arxiv.org/abs/2504.10157) ![](https://img.shields.io/badge/arXiv-2025.04-red)
@@ -278,6 +360,9 @@ The recent timeline of world models, covering core methods and the release of op
 * Typhon: Effectively Designing 2-Dimensional Sequence Models for Multivariate Time Series [[Paper]](https://iclr.cc/virtual/2025/37514) ![](https://img.shields.io/badge/ICLRW-2025-blue)
 
 ### Physical and Natural Sciences
+* VCWorld: A Biological World Model for Virtual Cell Simulation [[Paper]](https://openreview.net/forum?id=hhq89Hs7T3) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* LithoDreamer: A Process-level Lithography World Model for Chip Manufacturing [[Paper]](https://icml.cc/virtual/2026/poster/65784) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Surgical Vision World Model [[Paper]](https://arxiv.org/abs/2504.21764) ![](https://img.shields.io/badge/MICCAI_WS-2025-0077c2)
 * CellFlux: Simulating Cellular Morphology Changes via Flow Matching [[Paper]](https://icml.cc/virtual/2025/poster/46535) ![](https://img.shields.io/badge/ICML-2025-blue)
 * ODesign: A World Model for Biomolecular Interaction Design [[Paper]](https://arxiv.org/abs/2510.22304) ![](https://img.shields.io/badge/arXiv-2025.10-red)
 * Medical world model: Generative simulation of tumor evolution for treatment planning [[Paper]](https://arxiv.org/abs/2506.02327) ![](https://img.shields.io/badge/arXiv-2025.06-red)
@@ -292,7 +377,14 @@ The recent timeline of world models, covering core methods and the release of op
 
 ### Pixel-Level Observation Prediction
 * Diffusion For World Modeling: Visual Details Matter In Atari [[Paper]](https://neurips.cc/virtual/2024/poster/95428) ![](https://img.shields.io/badge/NeurIPS-2024-blue)
+* Infinite-World: World Models for Infinite Long-horizon Video Generation [[Paper]](https://icml.cc/virtual/2026/poster/62466) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling [[Paper]](https://icml.cc/virtual/2026/poster/62221) ![](https://img.shields.io/badge/ICML-2026-0077c2)
 * GameNGen: Diffusion Models Are Real-Time Game Engines [[Paper]](https://iclr.cc/virtual/2025/poster/29770) ![](https://img.shields.io/badge/ICLR-2025-blue)
+* ActionParty: Multi-Subject Action Binding in Generative Video Games [[Paper]](https://arxiv.org/abs/2604.02330) ![](https://img.shields.io/badge/arXiv-2026.04-red)
+* Code World Models for General Game Playing [[Paper]](https://openreview.net/forum?id=1UoB7IWiku) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* One Life to Learn: Inferring Symbolic World Models for Stochastic Environments from Unguided Exploration [[Paper]](https://openreview.net/forum?id=UQ36IrVCw2) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* GameGen-X: Interactive Open-world Game Video Generation [[Paper]](https://openreview.net/forum?id=xLccC0UY9g) ![](https://img.shields.io/badge/ICLR-2025-0077c2)
+* iVideoGPT: Interactive VideoGPTs are Scalable World Models [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/644b5b228a7fc48c472650014ed85fe3-Abstract-Conference.html) ![](https://img.shields.io/badge/NeurIPS-2024-0077c2)
 * Oasis: A Universe In A Transformer [[Paper]](https://oasis-model.github.io/) ![](https://img.shields.io/badge/github-2025.10-red)
 * AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/1518) ![](https://img.shields.io/badge/ICCV-2025-blue)
 * Matrix-Game 2.0: An Open-Source, Real-Time, And Streaming Interactive World Model [[Paper]](https://arxiv.org/abs/2508.13009) ![](https://img.shields.io/badge/arXiv-2025.08-red)
@@ -305,10 +397,14 @@ The recent timeline of world models, covering core methods and the release of op
 * Matrix-3D: Omnidirectional Explorable 3D World Generation [[Paper]](https://arxiv.org/abs/2508.08086) ![](https://img.shields.io/badge/arXiv-2025.08-red)
 
 ## Part 9: World Models for GUI-Based Agents
+* gWorld: Generative Visual Code Mobile World Models [[Paper]](https://arxiv.org/abs/2602.01576) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning [[Paper]](https://arxiv.org/abs/2602.10090) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Code2Worlds: Web Interactive World Generation as Code Generation [[Paper]](https://icml.cc/virtual/2026/poster/63373) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* WebWorld: A Controllable World Model for Web Agents [[Paper]](https://icml.cc/virtual/2026/poster/61755) ![](https://img.shields.io/badge/ICML-2026-0077c2)
 * NeuralOS: Towards Simulating Operating Systems via Neural Generative Models [[Paper]](https://arxiv.org/abs/2507.08800) ![](https://img.shields.io/badge/arXiv-2025.07-red)
-* ViMo: A Generative Visual GUI World Model for App Agents [[Paper]](https://arxiv.org/abs/2504.13936) ![](https://img.shields.io/badge/arXiv-2025.04-red)
+* ViMo: A Generative Visual GUI World Model for App Agents [[Paper]](https://openreview.net/forum?id=mWoMyDEfbM) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
 * Unlocking Smarter Device Control: Foresighted Planning With A World Model-Driven Code Execution Approach [[Paper]](https://arxiv.org/abs/2505.16422) ![](https://img.shields.io/badge/arXiv-2025.05-red)
-* R-WoM: Retrieval-augmented World Model For Computer-use Agents [[Paper]](https://arxiv.org/abs/2510.11892) ![](https://img.shields.io/badge/arXiv-2025.10-red)
+* R-WoM: Retrieval-augmented World Model For Computer-use Agents [[Paper]](https://openreview.net/forum?id=5ZaoXB3MdP) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
 * WKM: Agent Planning With World Knowledge Model [[Paper]](https://neurips.cc/virtual/2024/poster/93977) ![](https://img.shields.io/badge/NeurIPS-2024-blue)
 * WebDreamer: Is Your LLM Secretly A World Model Of The Internet? Model-Based Planning For Web Agents [[Paper]](https://openreview.net/forum?id=c6l7yA0HSq) ![](https://img.shields.io/badge/TMLR-2025-blue)
 * WMA: Web Agents With World Models: Learning And Leveraging Environment Dynamics In Web Navigation [[Paper]](https://iclr.cc/virtual/2025/poster/28448) ![](https://img.shields.io/badge/ICLR-2025-blue)
@@ -331,6 +427,14 @@ The recent timeline of world models, covering core methods and the release of op
 ## Part 11: Benchmark of World Models
 
 ### Benchmark Datasets \& Evaluation Metrics
+* World-In-World: World Models in a Closed-Loop World [[Paper]](https://openreview.net/pdf?id=yDmb7xAfeb) ![](https://img.shields.io/badge/ICLR-2026_Oral-0077c2)
+* OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling [[Paper]](https://openreview.net/forum?id=1y1YFKb9pp) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving [[Paper]](https://openreview.net/forum?id=OrgL5DsU0f) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
+* iWorld-Bench: Benchmarking Real-World Video Generation for Interactive World Models [[Paper]](https://icml.cc/virtual/2026/poster/62038) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* WorldMark: A Unified Benchmark Suite for Interactive Video World Models [[Paper]](https://arxiv.org/abs/2604.21686) ![](https://img.shields.io/badge/arXiv-2026.04-red)
+* Benchmarking World-Model Learning with Environment-Level Queries [[Paper]](https://icml.cc/Downloads/2026) ![](https://img.shields.io/badge/ICML-2026-0077c2)
+* Scaling Real-World Robot Policy Evaluation via Discrete Diffusion World Model [[Paper]](https://dworldeval.github.io/) ![](https://img.shields.io/badge/ICML-2026_Spotlight-0077c2)
+* Spatiotemporal Forecasting as Planning: A Model-Based Reinforcement Learning Approach with Generative World Models [[Paper]](https://arxiv.org/abs/2506.14222) ![](https://img.shields.io/badge/arXiv-2025.06-red)
 * Frozen in time: A joint video and image encoder for end-to-end retrieval. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Bain_Frozen_in_Time_A_Joint_Video_and_Image_Encoder_for_ICCV_2021_paper.html) ![会议徽章](https://img.shields.io/badge/ICCV-2021-blue)
 * Panda-70m: Captioning 70m videos with multiple cross-modality teachers. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Panda-70M_Captioning_70M_Videos_with_Multiple_Cross-Modality_Teachers_CVPR_2024_paper.html) ![会议徽章](https://img.shields.io/badge/CVPR-2024-blue)
 * Ego4d: Around the world in 3,000 hours of egocentric video. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.html) ![会议徽章](https://img.shields.io/badge/CVPR-2022-blue)
