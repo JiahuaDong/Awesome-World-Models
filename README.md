@@ -61,6 +61,7 @@ The recent timeline of world models, covering core methods and the release of op
   - [Part 12: Performance Comparison](#part-12-performance-comparison)
   - [Citation](#citation)
 ## Part 0: Survey Papers
+* Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses [[Paper]](https://arxiv.org/abs/2605.02900) ![](https://img.shields.io/badge/arXiv-2026.05-red)
 
 * From Specialist to Generalist: A Comprehensive Survey on World Models [[Paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176800434.49068726/v1) ![](https://img.shields.io/badge/TechRxiv-2026-0077c2)
 * Understanding World or Predicting Future? A Comprehensive Survey of World Models [[Paper]](https://fi.ee.tsinghua.edu.cn/~dingjingtao/papers/WorldModel.pdf) ![](https://img.shields.io/badge/ACM_CS-2025-0077c2)
