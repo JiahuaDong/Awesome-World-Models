@@ -527,8 +527,8 @@ If you find this work useful, welcome to cite us.
 
 <a href="https://github.com/JiahuaDong/Awesome-World-Models">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=JiahuaDong/Awesome-World-Models&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=JiahuaDong/Awesome-World-Models&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=JiahuaDong/Awesome-World-Models&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=JiahuaDong/Awesome-World-Models&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=JiahuaDong/Awesome-World-Models&type=Date" />
+   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=JiahuaDong/Awesome-World-Models&type=Date" />
  </picture>
 </a>
