@@ -142,6 +142,7 @@ The recent timeline of world models, covering core methods and the release of op
 * LWM: World model on million-length video and language with blockwise ringattention [[Paper]](https://iclr.cc/virtual/2025/poster/30229) ![](https://img.shields.io/badge/ICRL-2025-0077c2)
 * Speech World Model: Causal State-Action Planning with Explicit Reasoning for Speech [[Paper]](https://openreview.net/forum?id=YGUKPGO182) ![](https://img.shields.io/badge/ICLR-2026-0077c2)
 ### Visual Observations
+* ActionSplice: In-Flight Action Editing for Interactive World Models [[GitHub]](https://github.com/PardisTaghavi/ActionSplice) [[Paper]](https://arxiv.org/abs/2609.08230) ![](https://img.shields.io/badge/arXiv-2026.09-red)
 * LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models [[Paper]](https://arxiv.org/abs/2603.07145) ![](https://img.shields.io/badge/ECCV-2026-0077c2)
 * EgoWM: Walk through Paintings: Egocentric World Models from Internet Priors [[Paper]](https://arxiv.org/abs/2601.15284) ![](https://img.shields.io/badge/ECCV-2026-0077c2)
 * Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis [[Paper]](https://arxiv.org/abs/2603.15583) ![](https://img.shields.io/badge/ECCV-2026_Oral-0077c2)
