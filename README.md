@@ -360,6 +360,7 @@ The recent timeline of world models, covering core methods and the release of op
 * DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation [[Paper]](https://ieeexplore.ieee.org/abstract/document/11094017) ![](https://img.shields.io/badge/CVPR-2025-blue)
 
 ### Action-Conditioned Imagination
+* DriveVA: Video Action Models are Zero-Shot Drivers [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19) [[Code]](https://github.com/xiaomi-mlab/DriveVA) ![](https://img.shields.io/badge/ECCV-2026-0077c2)
 * OmniNWM: Omniscient Driving Navigation World Models [[Paper]](https://arxiv.org/abs/2510.18313) ![](https://img.shields.io/badge/ECCV-2026-0077c2)
 * GAIA-1: A Generative World Model for Autonomous Driving [[Paper]](https://arxiv.org/abs/2309.17080) ![](https://img.shields.io/badge/arXiv-2023.09-red)
 * WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens [[Paper]](https://arxiv.org/abs/2401.09985) ![](https://img.shields.io/badge/arXiv-2024.01-red)
