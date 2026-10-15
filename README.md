@@ -470,6 +470,7 @@ The recent timeline of world models, covering core methods and the release of op
 ## Part 11: Benchmark of World Models
 
 ### Benchmark Datasets \& Evaluation Metrics
+* WorldMemBench: A Comprehensive Benchmark for Memory of Video World Models [[Paper]](https://arxiv.org/abs/2610.19063) ![](https://img.shields.io/badge/arXiv-2026.10-red)
 * MemoBench: Benchmarking World Modeling in Dynamically Changing Environments [[Paper]](https://arxiv.org/abs/2606.27537) ![](https://img.shields.io/badge/ECCV-2026-0077c2)
 * Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models [[Paper]](https://arxiv.org/abs/2607.05390) ![](https://img.shields.io/badge/ECCV-2026-0077c2)
 * World-In-World: World Models in a Closed-Loop World [[Paper]](https://openreview.net/pdf?id=yDmb7xAfeb) ![](https://img.shields.io/badge/ICLR-2026_Oral-0077c2)
