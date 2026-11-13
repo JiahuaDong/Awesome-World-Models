@@ -410,6 +410,7 @@ The recent timeline of world models, covering core methods and the release of op
 ## Part 8: World Models for Virtual Game Simulation
 
 ### Pixel-Level Observation Prediction
+* FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation [[Paper]](https://arxiv.org/abs/2610.34564) ![](https://img.shields.io/badge/NeurIPS-2026-0077c2)
 * Diffusion For World Modeling: Visual Details Matter In Atari [[Paper]](https://neurips.cc/virtual/2024/poster/95428) ![](https://img.shields.io/badge/NeurIPS-2024-blue)
 * Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory [[Paper]](https://icml.cc/virtual/2026/poster/66617) ![](https://img.shields.io/badge/ICML-2026-0077c2)
 * WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling [[Paper]](https://icml.cc/virtual/2026/poster/65111) ![](https://img.shields.io/badge/ICML-2026-0077c2)
